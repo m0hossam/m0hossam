@@ -1,11 +1,11 @@
-# 🎩 Mohamed Hossam | Backend, Databases, Distributed Systems 🚀
+# Mohamed Hossam 🎩 Backend, Databases, Distributed Systems 🚀
 
 ### Who am I?
 
 - Fresh Grad, Computer Engineering
 - Backend SWE
 - Express/Node.js, Go, React
-- Currently learning Docker, Compose, and CI/CD
+- Currently learning `<Containers, CI/CD, Distributed Systems, .....>`
 
 ### Recent Work
 
