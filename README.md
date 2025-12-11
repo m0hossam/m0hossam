@@ -1,4 +1,4 @@
-# Mohamed Hossam 🎩 Backend, Databases, Distributed Systems
+# Mohamed Hossam 🎩 Backend, Databases, Systems
 
 ### Who am I?
 
